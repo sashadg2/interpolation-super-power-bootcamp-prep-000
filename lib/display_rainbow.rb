@@ -1,4 +1,10 @@
 # Write your #display_rainbow method her
-def display_rainbow(r,o,y,g,b,i,v)
-  puts "R: #{r}, O: #{o}, Y: #{y}, G: #{g}, B: #{b}, I: #{i}, V: #{v}"
+def display_rainbow(colors)
+  puts colors[0]
+  puts colors[1]
+  puts colors[2]
+  puts colors[3]
+  puts colors[4]
+  puts colors[5]
+  puts colors[6]
 end
